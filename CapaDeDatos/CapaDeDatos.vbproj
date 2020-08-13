@@ -66,6 +66,7 @@
   <ItemGroup>
     <Compile Include="Modelo.vb" />
     <Compile Include="Modelos\ModeloPersona.vb" />
+    <Compile Include="Modelos\ModeloUsuario.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>

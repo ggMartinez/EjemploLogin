@@ -1,6 +1,10 @@
 ﻿Public Class ModeloPersona
     Inherits Modelo
 
+    Public Sub New(username As String, password As String)
+        MyBase.New(username, password)
+
+    End Sub
     Public Id As String
     Public Nombre As String
     Public Apellido As String
